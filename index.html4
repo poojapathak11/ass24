@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>No Argument but No Return</title>
+</head>
+<body>
+    <script>
+        const side = 30;
+function areaOfSquare() {
+  const area = side * side;
+  console.log(`Area of Square :${area} `);
+}
+areaOfSquare();
+    </script>
+</body>
+</html>
